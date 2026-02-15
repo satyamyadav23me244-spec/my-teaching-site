@@ -26,8 +26,8 @@ export default siteConfig({
 
   // default notion icon and cover images for site-wide consistency (optional)
   // page-specific values will override these site-wide defaults
-  defaultPageIcon: null,
-  defaultPageCover: null,
+  defaultPageIcon: 'https://www.notion.so/image/attachment%3A986e0bde-a89a-4ca3-9b22-e8f81c965a81%3Aavatar.jpg?table=block&id=57766048-5817-4d6d-876f-ec71f4276937&spaceId=fde5ac74-eea3-4527-8f67-76419856346b&width=250&userId=&cache=v2',
+  defaultPageCover: 'https://www.notion.so/image/attachment%3A78855faa-31f0-466a-bc3f-7e04f08e5c33%3Acover.jpg?table=block&id=57766048-5817-4d6d-876f-ec71f4276937&spaceId=fde5ac74-eea3-4527-8f67-76419856346b&width=2000&userId=&cache=v2',
   defaultPageCoverPosition: 0.5,
 
   // whether or not to enable support for LQIP preview images (optional)
